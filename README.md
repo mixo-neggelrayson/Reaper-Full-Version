@@ -243,4 +243,4 @@ This repository serves as the official landing page for Reaper. The software is 
 **Get the most recent version of Reaper today!**
 
 ---
-**Last updated:** 2026-10-15 23:36:31 UTC
+**Last updated:** 2026-10-16 03:57:01 UTC
